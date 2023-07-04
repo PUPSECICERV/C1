@@ -37,10 +37,13 @@
 //}
 //Console.WriteLine("Самое большое число {max}");
 
-//Console.WriteLine("Введите число: ");
-//int num = Int32.Parse(Console.ReadLine());
-//if(num %2 == 0){
-//    Console.WriteLine("Это четное число");
-//}else{
-//    Console.WriteLine("Это нечетное число");
-//}
+Console.WriteLine("Введите число: ");
+int num = Int32.Parse(Console.ReadLine());
+if(num %2 == 0){
+    Console.WriteLine("Это четное число");
+}else{
+    Console.WriteLine("Это нечетное число");
+}
+
+
+
