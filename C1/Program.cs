@@ -45,7 +45,7 @@
 //    Console.Write(x + " ");
 //}
 
-Console.WriteLine("Введите трехзначное число: ");
-int num1 = Int32.Parse(Console.ReadLine());
-Console.WriteLine(num1 % 10);
+//Console.WriteLine("Введите трехзначное число: ");
+//int num1 = Int32.Parse(Console.ReadLine());
+//Console.WriteLine(num1 % 10);
 
